@@ -76,4 +76,6 @@ Icons for the following are included in the **koochak icon set**:
 
 [Charles Iliya Krempeaux](http://changelog.ca/) paid [Sadjad Maghsoudi](https://www.behance.net/maghsoudisadjad) to create the **koochak icons**.
 
+[Charles Iliya Krempeaux](http://changelog.ca/) released these **koochak icons** under the CC-BY license.
+
 
