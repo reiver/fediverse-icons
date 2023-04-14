@@ -5,7 +5,7 @@ Free icons for Fediverse
 	<thead>
 		<tr>
 			<th rowspan="2">Name</th>
-			<th colspan="2">Koochak</th>
+			<th colspan="2">Koochak <sup>CC BY</sup></th>
 		</tr>
 		<tr>
 			<th>Outline</th>
