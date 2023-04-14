@@ -1,5 +1,5 @@
 # fediverse-icons
-Free icons for Fediverse
+Free icons for the Fediverse.
 
 <table>
 	<thead>
