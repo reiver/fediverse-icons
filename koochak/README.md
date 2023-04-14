@@ -2,9 +2,6 @@
 
 The **koochak icons** provides an **icon set** for the **Fediverse**.
 
-The creation of the **koochak icons** was paid for by [Charles Iliya Krempeaux](http://changelog.ca/).
-The **koochak icons** were created by [Sadjad Maghsoudi](https://www.behance.net/maghsoudisadjad).
-
 The **koochak icons** come in 2 flavors: outline, and filled,
 
 Icons for the following are included in the **koochak icon set**:
@@ -70,3 +67,14 @@ Icons for the following are included in the **koochak icon set**:
 		</tr>
 	</tbody>
 </table>
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+## Creators
+
+The creation of the **koochak icons** was paid for by [Charles Iliya Krempeaux](http://changelog.ca/).
+The **koochak icons** were created by [Sadjad Maghsoudi](https://www.behance.net/maghsoudisadjad).
+
+
