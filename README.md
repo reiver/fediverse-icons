@@ -59,6 +59,11 @@ Free icons for the Fediverse.
 			<td><img src="koochak/filled/pleroma.svg" style="width:3em;" /></td>
 		</tr>
 		<tr>
+			<td>PeerTube</td>
+			<td><img src="koochak/outline/peertube.svg" style="width:3em;" /></td>
+			<td><img src="koochak/filled/peertube.svg" style="width:3em;" /></td>
+		</tr>
+		<tr>
 			<td>WriteFreely</td>
 			<td><img src="koochak/outline/writefreely.svg" style="width:3em;" /></td>
 			<td><img src="koochak/filled/writefreely.svg" style="width:3em;" /></td>
