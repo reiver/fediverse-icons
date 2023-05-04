@@ -34,6 +34,11 @@ Free icons for the Fediverse.
 			<td><img src="koochak/filled/gitea.svg" style="width:3em;" /></td>
 		</tr>
 		<tr>
+			<td>Hubzilla</td>
+			<td><img src="koochak/outline/hubzilla.svg" style="width:3em;" /></td>
+			<td><img src="koochak/filled/hubzilla.svg" style="width:3em;" /></td>
+		</tr>
+		<tr>
 			<td>Lemmy</td>
 			<td><img src="koochak/outline/lemmy.svg" style="width:3em;" /></td>
 			<td><img src="koochak/filled/lemmy.svg" style="width:3em;" /></td>
