@@ -24,6 +24,11 @@ Free icons for the Fediverse.
 			<td><img src="koochak/filled/castopod.svg" style="width:3em;" /></td>
 		</tr>
 		<tr>
+			<td>Forgejo</td>
+			<td><img src="koochak/outline/forgejo.svg" style="width:3em;" /></td>
+			<td><img src="koochak/filled/forgejo.svg" style="width:3em;" /></td>
+		</tr>
+		<tr>
 			<td>Friendica</td>
 			<td><img src="koochak/outline/friendica.svg" style="width:3em;" /></td>
 			<td><img src="koochak/filled/friendica.svg" style="width:3em;" /></td>
