@@ -34,6 +34,11 @@ Free icons for the Fediverse.
 			<td><img src="koochak/filled/friendica.svg" style="width:3em;" /></td>
 		</tr>
 		<tr>
+			<td>Funkwhale</td>
+			<td><img src="koochak/outline/funkwhale.svg" style="width:3em;" /></td>
+			<td><img src="koochak/filled/funkwhale.svg" style="width:3em;" /></td>
+		</tr>
+		<tr>
 			<td>Gitea</td>
 			<td><img src="koochak/outline/gitea.svg" style="width:3em;" /></td>
 			<td><img src="koochak/filled/gitea.svg" style="width:3em;" /></td>
